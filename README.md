@@ -37,7 +37,7 @@ Cada linha do registro (também referido como log) é uma ação do usuário ou 
 <img src="https://github.com/user-attachments/assets/029eb9d8-dd3d-41b5-be82-f551afed0520" alt="Projeto 11" width="200"/>
 
 ### Data
-<img src="https://github.com/user-attachments/assets/e6b5bdc3-22f7-456e-b408-1f80d385b67f" açt="Projeto 11" width="200"/>
+<img src="https://github.com/user-attachments/assets/e6b5bdc3-22f7-456e-b408-1f80d385b67f" alt="Projeto 11" width="200"/>
 
 ### Tabela grupos
 <img src="https://github.com/user-attachments/assets/3d308a6c-2e59-45ee-8342-35147282572c" alt="Projeto 11" width="200"/>
